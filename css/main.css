@@ -16,6 +16,10 @@ body {
   cursor: pointer;
 }
 
+.w-100{
+  width: 100% !important; 
+}
+
 /* Font style */
 .montserrat {
   font-family: "Montserrat", Helvetica, sans-serif !important;
